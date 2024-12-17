@@ -27,7 +27,12 @@ For Free Service , I am using Railway App
 Steps: to run
 1. First push the code into Github.
 2. open Railaway App and register.
-3. Connect Railway app to git and deployed
+3. Click on create.
+4. Select GithubRepo
+5. select send2sureshbehera/tracking-number
+6. Again click tracking-number then the app will take care for build and deployed.
+7. Go to the settings->click on Custome domains->copy the domain
+8. At the end of the domain add the below end point and test. 
    This is my Url:
    https://tracking-number-production.up.railway.app
 
